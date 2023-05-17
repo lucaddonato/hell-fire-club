@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto Interdisciplinar I - Sistemas de Informação ESPM
 
 <p align="center">
