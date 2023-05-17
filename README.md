@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto Interdisciplinar I - Sistemas de Informação ESPM
 
 <p align="center">
@@ -9,9 +10,9 @@
 ### 2023-01
 
 ## Integrantes
-- [Nome do integrante 1 e link do portifólio](https://github.com/rafaoambrosio)
-- [Nome do integrante 2 e link do portifólio](https://github.com/Luigi052)
-- [Nome do integrante 3 e link do portifólio](https://github.com/lucaddonato)
+- [Rafael Ambrosio](https://github.com/rafaoambrosio)
+- [Luca Donato](https://github.com/Luigi052)
+- [Luigi Tomassone](https://github.com/lucaddonato)
 
 
 
@@ -39,3 +40,7 @@ Este projeto é licenciado sob a [MIT License](https://github.com/lucaddonato/he
 <p align="right">
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://raw.githubusercontent.com/tech-espm/misc-template/main/logo-si-512.png" alt="Sistemas de Informação ESPM" style="width: 375px;"/></a>
 </p>
+=======
+# hell-fire-club
+Inferno na Terra
+>>>>>>> parent of df10999 (README)
