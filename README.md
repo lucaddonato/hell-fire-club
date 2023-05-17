@@ -24,7 +24,7 @@ A proposta é oferecer aos jogadores uma experiência única, mergulhando-os em 
 
 O mapa customizado terá diversos cenários que retratam diferentes aspectos da invasão do inferno, com desafios que envolvem exploração, combate e quebra-cabeças. O objetivo é criar um ambiente variado e envolvente, com referências a elementos do inferno, como lava, fogo e criaturas demoníacas.
 
-Objetivos Específicos:
+### Objetivos Específicos:
 
 Criar texturas coerentes com a temática do inferno, como blocos de pedra com texturas de lava e outros elementos infernais.
 Modificar modelos de personagens para que sejam utilizados como criaturas demoníacas, tornando-os mais agressivos e intimidadores.
