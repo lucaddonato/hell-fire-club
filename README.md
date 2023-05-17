@@ -5,14 +5,13 @@
 </p>
 
 # Projeto: Resource Pack e Mapa para Minecraft - Hell Fire Club
-A invasão do outro mundo.
 
 ### 2023-01
 
 ## Integrantes
-- [Nome do integrante 1 e link do portifólio](https://github.com/tech-espm/)
-- [Nome do integrante 2 e link do portifólio](https://github.com/tech-espm/)
-- [Nome do integrante 3 e link do portifólio](https://github.com/tech-espm/)
+- [Nome do integrante 1 e link do portifólio](https://github.com/rafaoambrosio)
+- [Nome do integrante 2 e link do portifólio](https://github.com/Luigi052)
+- [Nome do integrante 3 e link do portifólio](https://github.com/lucaddonato)
 
 
 
